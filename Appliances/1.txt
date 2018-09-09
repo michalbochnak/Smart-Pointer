@@ -1,0 +1,6 @@
+1
+0
+Samsung
+490
+path1
+path2

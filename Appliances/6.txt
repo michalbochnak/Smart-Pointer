@@ -1,0 +1,6 @@
+6
+1
+Whirpool
+1200
+path1
+path2
